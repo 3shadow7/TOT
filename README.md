@@ -3,19 +3,23 @@ it is a great tool that can <b>brute force</b>
 password , for <b>instagram</b> and <b>facebook</b> , writed
 with python language .
 
-# how install it !!
+## how install it !!
 
 <h3><b> Termux </b></h3>
 
 Easy , follow this commands step by step :
 
-1.
+1. step one
 ```Markdown
 apt-get update && apt-get upgrade && pkg install git && termux-setup-storage
 ```
-2.
+2. step tow
+```Markdown
+git clone https://github.com/3shadow7/TOT
 ```
-git clone 
+3. step three
+```Markdown
+cd TOT && chmod +x * && pkg install python3
 ```
 # Header 1
 ## Header 2
