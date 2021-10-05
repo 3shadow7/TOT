@@ -131,7 +131,7 @@ class project(object):
         project.LOGO()
         print("\033[7;36m take a number :\n\n")
         print("\033[0;35m[\033[0;36m1\033[0;35m] instagram ")
-        print("\033[0;35m[\033[0;36m2\033[0;35m] face book ")
+        print("\033[0;35m[\033[0;36m2\033[0;35m] facebook ")
         put = str(input("\n\033[0;35m[\033[0;36m$\033[0;35m]chose \033[0;36m:\033[1;34m "))
         if put == "1":
             os.system("clear")
