@@ -11,6 +11,8 @@ Easy , follow this commands step by step
 ```Markdown
 $`apt-get update && apt-get upgrade && pkg install git && termux-setup-storage`
 ```
+`$ apt-get update && apt-get upgrade && pkg install git && termux-setup-storage`
+
 # Header 1
 ## Header 2
 ### Header 3
