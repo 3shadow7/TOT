@@ -17,13 +17,16 @@ apt-get update && apt-get upgrade && pkg install git && termux-setup-storage
 ```
 2. step two
 ```Markdown
-git clone https://github.com/3shadow7/TOT
+git clone https://github.com/3shadow7/TOT && cd TOT && chmod +x * 
 ```
 3. step three
 ```Markdown
-cd TOT && chmod +x * && pkg install python3 && pkg install pip3 && pip3 install -r requirement.txt && termux-setup-storage && python3 tot.py
+pkg install python3 && pkg install pip3
 ```
-
+4. step four
+```Markdown
+pip3 install -r requirement.txt && termux-setup-storage && python3 tot.py
+```
 
 ## For more details
 
