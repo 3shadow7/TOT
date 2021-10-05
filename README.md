@@ -7,12 +7,16 @@ with python language .
 
 <h3><b> Termux </b></h3>
 
-Easy , follow this commands step by step
-```Markdown
-$`apt-get update && apt-get upgrade && pkg install git && termux-setup-storage`
-```
-`$ apt-get update && apt-get upgrade && pkg install git && termux-setup-storage`
+Easy , follow this commands step by step :
 
+1.
+```Markdown
+apt-get update && apt-get upgrade && pkg install git && termux-setup-storage
+```
+2.
+```
+git clone 
+```
 # Header 1
 ## Header 2
 ### Header 3
