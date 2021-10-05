@@ -8,9 +8,7 @@ with python language .
 <h3><b> Termux </b></h3>
 
 Easy , follow this commands step by step
-```markdown
-Syntax highlighted code block
-
+```
 # Header 1
 ## Header 2
 ### Header 3
