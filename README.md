@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+# TOT
+it is a great tool that can <b>brute forse</b> 
+password , for <b>instagram</b> and <b>facebook</b> , writed
+with python languege .
 
-You can use the [editor on GitHub](https://github.com/3shadow7/TOT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# how install it !!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3><b> Termux </b></h3>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Easy , follow this commands step by step
 ```markdown
 Syntax highlighted code block
 
