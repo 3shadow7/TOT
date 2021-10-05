@@ -8,7 +8,6 @@ with python language .
 <h3><b> Termux </b></h3>
 
 Easy , follow this commands step by step :
-
 1. step one
 ```Markdown
 apt-get update && apt-get upgrade && pkg install git && termux-setup-storage
@@ -19,19 +18,11 @@ git clone https://github.com/3shadow7/TOT
 ```
 3. step three
 ```Markdown
-cd TOT && chmod +x * && pkg install python3
+cd TOT && chmod +x * && pkg install python3 && pkg install pip3 && pip3 install -r requirement.txt && termux-setup-storage && python3 tot.py
 ```
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+##screen shoot
 
 [Link](url) and ![Image](src)
 
