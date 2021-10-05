@@ -3,7 +3,7 @@ it is a great tool that can <b>brute force</b>
 password , for <b>instagram</b> and <b>facebook</b> , writed
 with python language .
 
-![Screenshot_20211005-213324-03](https://user-images.githubusercontent.com/79174609/136103340-cc93b015-f73a-4b23-bdab-3e3189baa624.jpeg)
+![Screenshot_20211005-231844-01](https://user-images.githubusercontent.com/79174609/136104430-0186307c-b9a1-4a14-a064-29ca275b4c26.jpeg)
 
 
 ## how install it !!
