@@ -1,7 +1,7 @@
 # TOT
-it is a great tool that can <b>brute forse</b> 
+it is a great tool that can <b>brute force</b> 
 password , for <b>instagram</b> and <b>facebook</b> , writed
-with python languege .
+with python language .
 
 # how install it !!
 
