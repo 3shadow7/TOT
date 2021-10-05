@@ -15,7 +15,7 @@ Easy , follow this commands step by step :
 ```Markdown
 apt-get update && apt-get upgrade && pkg install git && termux-setup-storage
 ```
-2. step tow
+2. step two
 ```Markdown
 git clone https://github.com/3shadow7/TOT
 ```
