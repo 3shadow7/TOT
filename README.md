@@ -8,7 +8,7 @@ with python language .
 <h3><b> Termux </b></h3>
 
 Easy , follow this commands step by step
-```
+```Markdown
 # Header 1
 ## Header 2
 ### Header 3
@@ -22,7 +22,6 @@ Easy , follow this commands step by step
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
